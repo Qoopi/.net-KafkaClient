@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qoopi.Kafka.Clients", "Qoopi.Kafka.Clients\Qoopi.Kafka.Clients.csproj", "{2080ED2F-5EAB-4C5C-9C3E-EF958CF2A99E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qoopi.Kafka.TopicCreator", "Qoopi.Kafka.TopicCreator\Qoopi.Kafka.TopicCreator.csproj", "{0E2B0BAD-7972-44AB-B134-C08706C37E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2080ED2F-5EAB-4C5C-9C3E-EF958CF2A99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2080ED2F-5EAB-4C5C-9C3E-EF958CF2A99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2080ED2F-5EAB-4C5C-9C3E-EF958CF2A99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2080ED2F-5EAB-4C5C-9C3E-EF958CF2A99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2B0BAD-7972-44AB-B134-C08706C37E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2B0BAD-7972-44AB-B134-C08706C37E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2B0BAD-7972-44AB-B134-C08706C37E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2B0BAD-7972-44AB-B134-C08706C37E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
